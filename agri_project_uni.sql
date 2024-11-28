@@ -380,3 +380,14 @@ INSERT INTO Expenses (FieldID, ExpenseType, Amount, Date) VALUES
 (4, 'Waste Management', 400.00, '2024-11-23'),
 (5, 'Security Upgrades', 700.00, '2024-11-23');
 
+
+
+
+
+
+
+
+
+
+
+
